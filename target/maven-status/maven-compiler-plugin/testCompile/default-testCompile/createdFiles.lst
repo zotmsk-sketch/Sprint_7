@@ -1,0 +1,15 @@
+praktikum\tests\OrderCreateTest.class
+praktikum\tests\CourierLoginTest.class
+praktikum\tests\CourierDeleteTest.class
+praktikum\models\Order.class
+praktikum\steps\OrderSteps.class
+praktikum\client\ScooterClient.class
+praktikum\tests\OrderListTest.class
+praktikum\models\Courier.class
+praktikum\steps\CourierSteps$RequestExecutor.class
+praktikum\steps\CourierSteps.class
+praktikum\tests\OrderGetByNumberTest.class
+praktikum\tests\OrderAcceptTest.class
+praktikum\models\CourierIdResponse.class
+praktikum\tests\CourierCreateTest.class
+praktikum\steps\OrderSteps$RequestExecutor.class
