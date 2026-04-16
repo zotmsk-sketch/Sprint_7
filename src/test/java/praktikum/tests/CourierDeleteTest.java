@@ -40,3 +40,4 @@ public class CourierDeleteTest {
                 .body("message", equalTo("Курьера с таким id нет."));
     }
 }
+//

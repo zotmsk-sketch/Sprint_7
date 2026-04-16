@@ -74,3 +74,4 @@ public class CourierCreateTest {
                 .body("message", equalTo("Недостаточно данных для создания учетной записи"));
     }
 }
+//
