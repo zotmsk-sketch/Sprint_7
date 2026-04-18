@@ -26,3 +26,4 @@ public class ScooterClient {
                 .baseUri(BASE_URL);
     }
 }
+//
